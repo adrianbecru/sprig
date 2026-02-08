@@ -4,6 +4,7 @@ https://sprig.hackclub.com/gallery/getting_started
 
 @title: Factory Escape
 @author: Adrián Bethencourt Cruzado
+@description: In this game you control a chicken using WASD and help her escape, you also have a partner you can control with IJKL.
 @tags: [puzzle, co-op]
 @addedOn: 2026-02-07
 */
